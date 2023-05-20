@@ -1,0 +1,1 @@
+A repo with samples for creating AWS resources via terraform.
